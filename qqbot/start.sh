@@ -1,3 +1,3 @@
 #! /bin/sh
 
-python WebQQ.py &
+chmod 777 python WebQQ.py &
